@@ -1,4 +1,5 @@
-#EJEMPLO DEL README PARA EL CURSO DE GIT Y GITHUB PLATZI
+# EJEMPLO DEL README PARA EL CURSO DE GIT Y GITHUB PLATZI
+
 ![](https://www.freecodecamp.org/espanol/news/content/images/2021/01/cover-pic-1-.jpeg)
 
 
